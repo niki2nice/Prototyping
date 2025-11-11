@@ -4,6 +4,7 @@
 .output
 .vercel
 /build
+.netlify
 
 # OS
 .DS_Store
